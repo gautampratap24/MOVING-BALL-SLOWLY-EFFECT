@@ -1,1 +1,1 @@
-This is my practice time pass javascript project using gsap.
+This is my practice project in which ball following cursor very smoothly using GSAP. 
